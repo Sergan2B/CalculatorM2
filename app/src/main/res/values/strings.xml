@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="policy">Policy</string>
+    <string name="product_category">Product Category</string>
+    <string name="origin_country">Origin Country</string>
+    <string name="band">Band</string>
+    <string name="finish_all_activity">Finish all activity</string>
+    <string name="finish_all_activity_2">Finish all Activity 2</string>
+    <string name="result">Result</string>
+    <string name="_ac">AC</string>
+    <string name="plus_or_minus">+/-</string>
+    <string name="percent">%</string>
+    <string name="division">/</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="x">x</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="defis">-</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="plus">+</string>
+    <string name="_0">0</string>
+    <string name="no_dot">,</string>
+    <string name="equally">=</string>
+</resources>
